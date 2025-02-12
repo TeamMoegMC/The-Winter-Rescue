@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "twrs:black_stone_cottages/black_stone_cottages",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 32,
+      "separation": 8,
+      "salt": 771843370
+    }
+  }
