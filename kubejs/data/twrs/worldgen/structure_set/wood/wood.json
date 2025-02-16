@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "twrs:wood/wood",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 32,
+      "separation": 8,
+      "salt": 450026132
+    }
+  }

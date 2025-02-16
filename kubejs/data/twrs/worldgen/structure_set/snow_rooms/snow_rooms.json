@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "twrs:snow_rooms/snow_rooms",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 32,
+      "separation": 8,
+      "salt": 830331279
+    }
+  }
